@@ -27,11 +27,3 @@ Exams, part time work, holidays, lectures.
 In particular with Apache $Project, including project mailing lists, wikis, issue trackers, test systems.
 This should show a rough understanding of working with open source communities. You should be engaged with the rest of the community both before coding start (e.g. to develop this proposal) and during the project.
 Include any planned user testing, prototypes, code review.
-
-Community engagement
-
-In particular with Apache $Project, including project mailing lists, wikis, issue trackers, test systems.
-
-This should show a rough understanding of working with open source communities. You should be engaged with the rest of the community both before coding start (e.g. to develop this proposal) and during the project.
-
-Include any planned user testing, prototypes, code review.

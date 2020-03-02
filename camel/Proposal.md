@@ -71,7 +71,7 @@ Etcd v3 component:
 Milestone 2.
 
 Here if time left (not sure on the priority, where to put this feature):
- - camel-spring-boot starters (https://github.com/apache/camel-spring-boot) for both components (~ 1-2 weeks)[optiona]
+ - camel-spring-boot starters (https://github.com/apache/camel-spring-boot) for both components (~ 1-2 weeks)[optional]
 
 In the worst case only one component will be done, in the best both will be done. In the average scenario, a part of the etcd component will be done, which can be finished outside of the GSoC project.
 

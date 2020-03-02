@@ -39,6 +39,7 @@ All goes with tests, docs, OSGi implementations.
 # Deliverables¶
  - Kafka-stream component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support
  - Etcd v3 component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support
+ - camel-spring-boot starters [optional]
 # Scheduling¶
 Highlevel list of tasks in order.
 

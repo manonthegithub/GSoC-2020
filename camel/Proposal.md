@@ -68,6 +68,7 @@ Etcd v3 component:
 - implementation of Endpoint and Component + tests (~ 2-3 days)
 - OSGi support + tests (~ 1 week) [optional]
 - documentation (~ 1 week)
+
 Milestone 2.
 
 Here if time left (not sure on the priority, where to put this feature):

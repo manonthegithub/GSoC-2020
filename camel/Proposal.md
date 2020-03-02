@@ -35,6 +35,7 @@ All goes with tests, docs, OSGi implementations.
 # Results for the Apache community¶
  - Kafka-stream component available for use
  - Etcd v3 component available for use
+ - camel-spring-boot starters [optional]
 # Deliverables¶
  - Kafka-stream component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support
  - Etcd v3 component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support

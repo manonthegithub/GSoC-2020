@@ -3,6 +3,7 @@
 {Project-Name-From-Ideas-Page} - {Your-Name}
 e.g. "Knowledge base embeddings for DBpedia - Sergey Brin"
 
+
 # Contact information
 
 Your Name:
@@ -10,6 +11,7 @@ Email Address:
 Instant messenger name and protocol (if any):
 Any professional (e.g. github, linkedin) or personal (e.g. blog) URLs you would like to list:
 # Project
+"Combine DBpedia/Databus with Underlay" (https://forum.dbpedia.org/t/combine-dbpedia-databus-with-underlay/434)
 
 Project Name: One of our suggestions?, or your own idea
 Project Description: Your own description of the project and why it's interesting

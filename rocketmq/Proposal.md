@@ -1,4 +1,4 @@
-# GSoC project proposal for Apache Camel.
+# GSoC project proposal for Apache RocketMQ.
 # About me¶
  - University of Freiburg. MS Computer Science. 2018 - now 
  - Worked as a developer in industry. 3-4 years of experience in Java and 3-4 years more in Scala. Basic Python, Javascript, web-development. 

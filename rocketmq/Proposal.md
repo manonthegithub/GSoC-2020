@@ -29,6 +29,7 @@ todo
 In the beginning of the GSoC (first 2 weeks) I will be finishing an internship in NII (Japan) and will be less active, full dedication afterwards.
 # Community engagement¶
 todo
+
 Subscribed to dev mailing list. Keep communication in the project Jira. Looking at some sample implementations of the components.
 
 <!--In particular with Apache $Project, including project mailing lists, wikis, issue trackers, test systems.

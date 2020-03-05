@@ -5,8 +5,7 @@
  - Contributed and continue to several opensource projects: akka (latest big PR: https://github.com/akka/akka/pull/26825), akka-http; small contributions to Apache JMeter, neosemantics, java-stix, swagger-akka-http. 
  - Oracle Certified Professional (Java 8)
 
-My linkedin: https://www.linkedin.com/in/kirill-yankov-8b0747118/
-
+My linkedin: https://www.linkedin.com/in/kirill-yankov-8b0747118/  
 My github: https://github.com/manonthegithub
 
 # Background¶

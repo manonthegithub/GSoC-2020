@@ -4,7 +4,7 @@
 # Contact information
 
 Name: Kirill Yankov  
-Email Address: myworkpostbox <at> gmail.com  
+Email Address: myworkpostbox [at] gmail.com  
 My linkedin: https://www.linkedin.com/in/kirill-yankov-8b0747118/  
 My github: https://github.com/manonthegithub  
   

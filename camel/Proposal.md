@@ -80,7 +80,9 @@ In the worst case only one component will be done, in the best both will be done
 # Other commitments¶
 In the beginning of the GSoC (first 2 weeks) I will be finishing an internship in NII (Japan) and will be less active, full dedication afterwards.
 # Community engagement¶
-Subscribed to dev mailing list. Keep communication in the project Jira. Forked github repo, looking at some sample implementations of the components.
+Subscribed to dev mailing list. Keep communication in the project Jira.
+PRs done or in progress:
+ - https://github.com/apache/camel/pull/3629
 
 <!--In particular with Apache $Project, including project mailing lists, wikis, issue trackers, test systems.
 This should show a rough understanding of working with open source communities. You should be engaged with the rest of the community both before coding start (e.g. to develop this proposal) and during the project.

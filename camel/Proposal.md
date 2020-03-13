@@ -80,7 +80,7 @@ In the worst case only one component will be done, in the best both will be done
 # Other commitments¶
 In the beginning of the GSoC (first 2 weeks) I will be finishing an internship in NII (Japan) and will be less active, full dedication afterwards.
 # Community engagement¶
-Subscribed to dev mailing list. Keep communication in the project Jira.
+Subscribed to dev mailing list. Keep communication in the project Jira.  
 PRs done or in progress:
  - https://github.com/apache/camel/pull/3629
 

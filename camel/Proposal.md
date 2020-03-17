@@ -1,9 +1,9 @@
 # GSoC project proposal for Apache Camel.
 # About me¶
- - University of Freiburg. MS Computer Science. 2018 - now 
- - Worked as a developer in industry. 3-4 years of experience in Java and 3-4 years more in Scala. Basic Python, Javascript, web-development. 
- - Contributed and continue to several opensource projects: akka (latest big PR: https://github.com/akka/akka/pull/26825), akka-http; small contributions to Apache JMeter, neosemantics, java-stix, swagger-akka-http. 
- - Oracle Certified Professional (Java 8)
+- University of Freiburg. MS Computer Science. 2018 - now 
+- Worked as a developer in industry. 3-4 years of experience in Java and 3-4 years more in Scala. Basic Python, Javascript, web-development. 
+- Contributed and continue to several opensource projects: akka (latest big PR: https://github.com/akka/akka/pull/26825), akka-http; small contributions to Apache JMeter, neosemantics, java-stix, swagger-akka-http. 
+- Oracle Certified Professional (Java 8)
 
 My linkedin: https://www.linkedin.com/in/kirill-yankov-8b0747118/  
 My github: https://github.com/manonthegithub
@@ -32,13 +32,13 @@ Etcd v3 component:
 All goes with tests, docs, OSGi implementations.
 
 # Results for the Apache community¶
- - Kafka-stream component available for use
- - Etcd v3 component available for use
- - camel-spring-boot starters [optional]
+- Kafka-stream component available for use
+- Etcd v3 component available for use
+- camel-spring-boot starters [optional]
 # Deliverables¶
- - Kafka-stream component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support
- - Etcd v3 component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support
- - camel-spring-boot starters [optional]
+- Kafka-stream component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support
+- Etcd v3 component (Component, Endpoint, Consumer and Producer), tests, documentation (including examples), OSGi support
+- camel-spring-boot starters [optional]
 # Scheduling¶
 Highlevel list of tasks in order.
 
@@ -73,7 +73,7 @@ Etcd v3 component:
 Milestone 2.
 
 Here if time left (not sure on the priority, where to put this feature):
- - camel-spring-boot starters (https://github.com/apache/camel-spring-boot) for both components (~ 1-2 weeks)[optional]
+- camel-spring-boot starters (https://github.com/apache/camel-spring-boot) for both components (~ 1-2 weeks)[optional]
 
 In the worst case only one component will be done, in the best both will be done. In the average scenario, a part of the etcd component will be done, which can be finished outside of the GSoC project.
 
@@ -81,8 +81,8 @@ In the worst case only one component will be done, in the best both will be done
 In the beginning of the GSoC (first 2 weeks) I will be finishing an internship in NII (Japan) and will be less active, full dedication afterwards.
 # Community engagement¶
 Subscribed to dev mailing list. Keep communication in the project Jira.  
-PRs done or in progress:
- - https://github.com/apache/camel/pull/3629
+PRs to Apache Camel done or in progress:
+- https://github.com/apache/camel/pull/3629
 
 <!--In particular with Apache $Project, including project mailing lists, wikis, issue trackers, test systems.
 This should show a rough understanding of working with open source communities. You should be engaged with the rest of the community both before coding start (e.g. to develop this proposal) and during the project.

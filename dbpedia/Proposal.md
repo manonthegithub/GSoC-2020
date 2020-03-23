@@ -66,6 +66,8 @@ See example of code in "Open source" section.
 
 # Open Source
 
+My PRs: https://github.com/pulls?q=is%3Apr+author%3Amanonthegithub+archived%3Afalse+
+
 Contributed and continue to several opensource projects: akka (latest big PR: https://github.com/akka/akka/pull/26825 - persistence testkit implementation), akka-http; small contributions to Apache JMeter, neosemantics (exporting rdf - to neo4j), java-stix, swagger-akka-http.  
 Why opensource? Firstly, opensource  helps you to grow as a professional, you can learn best practices and get inspiration for your projects from opensource. Secondly, sometimes I contribute to projects I use in my work, when its needed. Thirdly, its fun.
 

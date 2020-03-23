@@ -54,6 +54,8 @@ Milestone 2.
 - spare time for bugfixes and unexpected obstacles (2 weeks)
 - performance testing (1 week - 4 weeks)[optional] (In case we are doing gateway, performance can become an issue, it may be not enough time for improving, but possibly I can do it outside of the scope of the project. Peformance testing assumes modeling real word scenarios and emulation of them with performance testing tools. The main criteria is whether or not the solution can handle expected load (requests/files/bytes per second). I have experience in that, but it may be very time consuming.)
 
+Final Milestone.
+
 In the best case fully functional integration is implemented. In the worst case, there will be at least a working prototype.
 <!--Please include in your plan how will you evaluate the performance of your contribution (in terms of time, or accuracy, or both), as well as which data sets you will use for that evaluation.-->
 # Technical skills

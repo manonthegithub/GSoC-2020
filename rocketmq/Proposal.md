@@ -54,7 +54,8 @@ Elasticsearch connector:
 Milestone 2.
 
 # Other commitments¶
-In the beginning of the GSoC (first 2 weeks) I will be finishing an internship in NII (Japan) and will be less active, full dedication afterwards.
+Initially the coding was expected to start on 18th of May, but as the timeline has changed, I have no overlapping activities anymore. I will be able to start working on the first few days with full dedication. At the beginning I was expecting that, when GSoC starts, I will be finishing my internship in Japan which is until the end of May.
+
 # Community engagement¶
 Subscribed to dev mailing list. Keep communication in the project Jira. Looking at some sample implementations of the connectors (https://github.com/apache/rocketmq-externals).
 

@@ -82,7 +82,7 @@ I would be interested in co-authoring a paper, if any.
 
 # Summer plans
 
-I will be in Russia and Germany. First two weeks of the project will not be very active, because I will be finishing my internship in NII (Japan). After the intenship - full dedication (30-40 hours per week).
+Initially the coding was expected to start on 18th of May, but as the timeline has changed, I have no overlapping activities anymore. I will be able to start working on the first few days with full dedication. At the beginning I was expecting that, when GSoC starts, I will be finishing my internship in Japan which is until the end of May.
 
 # GSoC Experience
 

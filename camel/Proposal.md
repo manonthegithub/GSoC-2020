@@ -2,7 +2,7 @@
 # About me¶
 - University of Freiburg. MS Computer Science. 2018 - now 
 - Worked as a developer in industry. 3-4 years of experience in Java and 3-4 years more in Scala. Basic Python, Javascript, web-development. 
-- Contributed and continue to several opensource projects: akka (latest big PR: https://github.com/akka/akka/pull/26825), akka-http; small contributions to Apache JMeter, neosemantics, java-stix, swagger-akka-http. 
+- Contributed and continue to several opensource projects: akka (latest big PR: <https://github.com/akka/akka/pull/26825>), akka-http; small contributions to Apache JMeter, neosemantics, java-stix, swagger-akka-http. 
 - Oracle Certified Professional (Java 8)
 
 My linkedin: https://www.linkedin.com/in/kirill-yankov-8b0747118/  
@@ -78,11 +78,11 @@ Here if time left (not sure on the priority, where to put this feature):
 In the worst case only one component will be done, in the best both will be done. In the average scenario, a part of the etcd component will be done, which can be finished outside of the GSoC project.
 
 # Other commitments¶
-In the beginning of the GSoC (first 2 weeks) I will be finishing an internship in NII (Japan) and will be less active, full dedication afterwards.
+Initially the coding was expected to start on 18th of May, but as the timeline has changed, I have no overlapping activities anymore. I will be able to start working on the first few days. At the beginning I was expecting that, when GSoC starts, I will be finishing my internship in Japan which is until the end of May.
+
 # Community engagement¶
 Subscribed to dev mailing list. Keep communication in the project Jira.  
-PRs to Apache Camel done or in progress:
-- https://github.com/apache/camel/pull/3629
+See PRs to Apache Camel done or in progress: https://github.com/apache/camel/pulls?q=is%3Apr+author%3Amanonthegithub
 
 <!--In particular with Apache $Project, including project mailing lists, wikis, issue trackers, test systems.
 This should show a rough understanding of working with open source communities. You should be engaged with the rest of the community both before coding start (e.g. to develop this proposal) and during the project.

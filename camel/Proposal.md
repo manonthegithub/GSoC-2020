@@ -78,7 +78,7 @@ Here if time left (not sure on the priority, where to put this feature):
 In the worst case only one component will be done, in the best both will be done. In the average scenario, a part of the etcd component will be done, which can be finished outside of the GSoC project.
 
 # Other commitments¶
-Initially the coding was expected to start on 18th of May, but as the timeline has changed, I have no overlapping activities anymore. I will be able to start working on the first few days. At the beginning I was expecting that, when GSoC starts, I will be finishing my internship in Japan which is until the end of May.
+Initially the coding was expected to start on 18th of May, but as the timeline has changed, I have no overlapping activities anymore. I will be able to start working on the first few days with full dedication. At the beginning I was expecting that, when GSoC starts, I will be finishing my internship in Japan which is until the end of May.
 
 # Community engagement¶
 Subscribed to dev mailing list. Keep communication in the project Jira.  

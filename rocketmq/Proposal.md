@@ -8,7 +8,7 @@
 My linkedin: https://www.linkedin.com/in/kirill-yankov-8b0747118/  
 My github: https://github.com/manonthegithub
 # Background¶
-Project assumes implementing several roqcketmq components:
+Project assumes implementing roqcketmq elasticsearch connector:
 - "RocketMQ Connect Elasticsearch"(https://issues.apache.org/jira/browse/COMDEV-349)
 # Design / description of work¶
 Elasticsearch connector. Following should be implemented:

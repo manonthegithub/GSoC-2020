@@ -10,48 +10,38 @@ My github: https://github.com/manonthegithub
 # Background¶
 Project assumes implementing several roqcketmq components:
 - "RocketMQ Connect Elasticsearch"(https://issues.apache.org/jira/browse/COMDEV-349)
-- "RocketMQ Connect Cassandra"(https://issues.apache.org/jira/browse/COMDEV-353)
 # Design / description of work¶
-Two components:
- - Elasticsearch connector. Following should be implemented:
-   - Configuration
-   - SinkConnector
-   - Tests
-   - Docs
- - Cassandra connector. Following should be implemented:
-   - Configuration
-   - SinkConnector
-   - Tests
-   - Docs
-
+Elasticsearch connector. Following should be implemented:
+- Configuration
+- SinkConnector
+- Tests
+- Docs
 # Results for the Apache community¶
 - Elacticsearch connector available for use
-- Cassandra sink connector availabele for use
 # Deliverables¶
-- Elasticsearch connector, docs, tests
-- Cassandra connector, docs, tests
+Elasticsearch connector, docs, tests
 # Scheduling¶
-Implementation of the connectors doesn't seem that difficult, but I can underestimate effort. In the worst case only one connector will be done. In the best case both. In the averge, elastic connector can be finished outside of GSoC.
+Implementation of the connectors doesn't seem that difficult, but I can underestimate effort.
 
 Following tasks in order:  
 
-Cassandra connector:  
-- investigate more on how to implement connectors (up to 1 week)
-- investigate more on Cassandra (up to 1 week)
+- investigate more on Elastic (1 week, up to 2 weeks)
+- investigate more on the RocketMq connectors (how to implement, openmessaging api) (up to 1 week)
+- verification and refinement of the requirements (1-3 days)
+
+Milestone 1. 
+
+- implementation of Configuration (up to 1 week)
+- implementation of Serialization (up to 1 week)
 - implementation of the SinkConnector class (1-2 weeks)
-- tests (1 week)
+
+Milestone 2.
+
+- tests (2 weeks)
 - docs (1 week)
 - spare time for fixes and unexpected works (2 weeks)
 
-Milestone 1.
-
-Elasticsearch connector:
-- investigate more on Elastic (up to 1 week)
-- implementation of the SinkConnector class (1-2 weeks)
-- tests (1 week)
-- docs (1 week)
-
-Milestone 2.
+Final Milestone.
 
 # Other commitments¶
 Initially the coding was expected to start on 18th of May, but as the timeline has changed, I have no overlapping activities anymore. I will be able to start working on the first few days with full dedication. At the beginning I was expecting that, when GSoC starts, I will be finishing my internship in Japan which is until the end of May.

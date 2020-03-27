@@ -31,8 +31,8 @@ This needs more investigation on IPFS, but in general the project looks like imp
 Main problems for uploading:
  - new mechanism of uploading most likely to be implemented (uploading files into IPFS)
  - versioning of the artifacts should be implemented (using IPFS)
- 
- Main problems for downloading:
+
+Main problems for downloading:
  - downloading mechanism possibly needs to be changed (for example, if IPFS client library needs to be used)
  - potentially new gateway service needs to be implemented
 

@@ -89,8 +89,8 @@ Initially the coding was expected to start on 18th of May, but as the timeline h
 ## GSoC Experience
 Did not participate in GSoC before.  
 
-### Have you applied or do you plan to apply for any other 2017 Summer of Code projects? 
-Thinking about it. 
+### Have you applied or do you plan to apply for any other 2020 Summer of Code projects? 
+To increase the probability of being accepted I am applying to 3 projects.
 
 ### Why GSoC?
 Great opportunity to learn more, get new aquaintances with great programmers, potentially find a job, contribute to opensource and to earn some money.  

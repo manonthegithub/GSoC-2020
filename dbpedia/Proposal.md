@@ -26,9 +26,21 @@ Two main components:
  - databus-maven-plugin (https://github.com/dbpedia/databus-maven-plugin) - for publishing the data by customers
  - databus-client (https://github.com/dbpedia/databus-client) - loads published data, SPARQL endpoint
  
- ![current architecture](current.svg)
+Current architecture:
+
+![current architecture](current.svg)
+
+(**Note** that there are many publishers, there is only one on the diagram for simplicity)
 
 This needs more investigation on IPFS, but in general the project looks like implementation of publishing to and reading from IPFS via current databus components (databus-client, databus-maven-plugin). 
+
+Possible architecture #1:
+
+![new1](new1.svg)
+
+Possible architecture #2:
+
+![new2](new2.svg)
 
 Main problems for uploading:
  - new mechanism of uploading most likely to be implemented (uploading files into IPFS)

@@ -24,7 +24,9 @@ The project has major challenges of making a good design, it is always interesti
 ### Please describe a tentative project architecture or an approach to it:
 Two main components:
  - databus-maven-plugin (https://github.com/dbpedia/databus-maven-plugin) - for publishing the data by customers
- - databus-client (https://github.com/dbpedia/databus-client) - loads published data, SPARQL endpoint  
+ - databus-client (https://github.com/dbpedia/databus-client) - loads published data, SPARQL endpoint
+ 
+ ![current architecture](current.svg)
 
 This needs more investigation on IPFS, but in general the project looks like implementation of publishing to and reading from IPFS via current databus components (databus-client, databus-maven-plugin). 
 

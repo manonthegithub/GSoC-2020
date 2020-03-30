@@ -54,7 +54,8 @@ Main problems for downloading:
 Start of the work.
 - look in more detail in the project code (both databus-maven-plugin and databus-client), get better understanding how it works (1-2 weeks). Getting a clear understading of how components work to be able to start modification.
 - investigate on IPFS (1-2 weeks). Getting more information on the details of the IPFS api, its architecture and good practices of working with it.
-- make initial design of integration with IPFS (2-3 days) (both uploading and downloading). The architecture design is refined based on the information gathered in previous steps. Here may be some difficulties on choosing the right one. 
+- gather requirements (1 day - 1 week). This step is very important, as requirements need to be well defined and understood. This step involves the main risk of making the wrong solution.
+- make initial design of integration with IPFS (2 days - 1 week) (both uploading and downloading). The architecture design is refined based on the information gathered in previous steps. Here may be some difficulties on picking the right architecture.
 - make an initial prototype of the solution (1-2 weeks). Here should be a working application being able to publish versioned files in IPFS and download them from it.
 
 Milestone 1. At that point re-estimation of implementation task size may be done.

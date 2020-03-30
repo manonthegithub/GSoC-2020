@@ -52,17 +52,17 @@ Main problems for downloading:
 
 ### Please detail an expected project plan and timeline with milestones:  
 Start of the work.
-- look in more details in the project code (both databus-maven-plugin and databus-client), get better understanding how it works (1-2 weeks)
-- investigate on IPFS (1-2 weeks)
-- make initial design of integration with IPFS (2-3 days) (both uploading and downloading)
-- make an initial prototype of the solution (1-2 weeks)
+- look in more detail in the project code (both databus-maven-plugin and databus-client), get better understanding how it works (1-2 weeks). Getting a clear understading of how components work to be able to start modification.
+- investigate on IPFS (1-2 weeks). Getting more information on the details of the IPFS api, its architecture and good practices of working with it.
+- make initial design of integration with IPFS (2-3 days) (both uploading and downloading). The architecture design is refined based on the information gathered in previous steps. Here may be some difficulties on choosing the right one. 
+- make an initial prototype of the solution (1-2 weeks). Here should be a working application being able to publish versioned files in IPFS and download them from it.
 
 Milestone 1. At that point re-estimation of implementation task size may be done.
 - refine the solution requirements/architecture on the basis of collected from a prototype issues, drawbacks, comments (2 days - 1 week)
-- implementation of the refined solution, with unit tests (2-6 weeks, difficult to assess, here is the main risk of underestimation)
+- implementation of the refined solution, with unit tests (2-6 weeks, difficult to assess, here is the main risk of underestimation). Incremental integration of the prototype into current solution modifying and/or creating new components. Here may be some difficulties with requirements on compatibility of the old solution with the new one.
 
 Milestone 2.
-- testing on some real data + integration (1-2 weeks)
+- testing on some real data + integration (1-2 weeks). Deployment of the solution in the integration testing environment and testing it in more or less real world conditions (depending on your infrastructure, available resources etc.). Here some bugs/problems which need fixes may be revealed.
 - documentation (1 week)
 - spare time for bugfixes and unexpected obstacles (2 weeks)
 - performance testing (1 week - 4 weeks)[optional] (In case we are doing gateway, performance can become an issue, it may be not enough time for improving, but possibly I can do it outside of the scope of the project. Peformance testing assumes modeling real word scenarios and emulation of them with performance testing tools. The main criteria is whether or not the solution can handle expected load (requests/files/bytes per second). I have experience in that, but it may be very time consuming.)

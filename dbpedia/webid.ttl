@@ -1,0 +1,8 @@
+<#this> a foaf:Person ;
+   foaf:name "Kirill Yankov (test)";
+   cert:key [ 
+       a cert:RSAPublicKey;
+       rdfs:label "Konnichiwa!";
+       cert:modulus "978CD24[...]3F29B"^^xsd:hexBinary;
+       cert:exponent "65537"^^xsd:nonNegativeInteger
+      ] .

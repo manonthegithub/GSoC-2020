@@ -2,7 +2,7 @@
    foaf:name "Kirill Yankov (test)";
    cert:key [ 
        a cert:RSAPublicKey;
-       rdfs:label "Konnichiwa!";
+       rdfs:label "Konnichiwa! test key";
        cert:modulus "978CD24[...]3F29B"^^xsd:hexBinary;
        cert:exponent "65537"^^xsd:nonNegativeInteger
       ] .

@@ -24,7 +24,7 @@ This week is not very productive as expected. I have finished work in Japan and 
 - made an architecture draft
 
 
-![architecture draft](Architecture draft.svg)
+![architecture draft](Architecture%20draft.svg)
 
 # Week 4 (June 22 - June 28)
 todo

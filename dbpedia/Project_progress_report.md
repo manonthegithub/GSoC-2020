@@ -17,12 +17,11 @@ This week is not very productive as expected. I have finished work in Japan and 
 
 # Week 3 (June 15 - June 21)
 - got better understanding of how ipfs works (watched a few tutorials, asked questions on their forum and in github, read more docs)
-- 
+- implemented a few more scala-client methods
 - started implementation of directories uploading
 - developed a few ideas of how to track user downloads (make dbpeadia's ipfs gateway, possibly encrypt the data on the user upload)
 - got better understanding on how to deal with versioning (use ipld, smart chunkers)
 - made an architecture draft
-
 
 ![architecture draft](Architecture%20draft.svg)
 

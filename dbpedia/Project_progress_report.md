@@ -22,6 +22,7 @@ This week is not very productive as expected. I have finished work in Japan and 
 - developed a few ideas of how to track user downloads (make dbpeadia's ipfs gateway, possibly encrypt the data on the user upload)
 - got better understanding on how to deal with versioning (use ipld, smart chunkers)
 - made an architecture draft
+
 ![architecture draft](./Architecture draft.svg)
 
 

@@ -26,4 +26,10 @@ This week is not very productive as expected. I have finished work in Japan and 
 ![architecture draft](Architecture%20draft.svg)
 
 # Week 4 (June 22 - June 28)
+- got in touch with ipfs community, who gave some useful tips
+- http-api imposes unnecessary overhead, so I switched to cli 
+- implemented foundation for a cli client for databus-maven-plugin
+- investigated more on the deduplication and chunking in ipfs, used datasets to find out how well is deduplication going to work with them. The result is that, it may work in case we use raw `.ttl` files, but it is not really efficient with compressed data. Compression looks much more efficient than the use of raw `.ttl` with deduplication, it may be not the case only if there are not many changes in the data, and new versions are published frequently. 
+
+# Week 5 (June 29 - July 5)
 todo

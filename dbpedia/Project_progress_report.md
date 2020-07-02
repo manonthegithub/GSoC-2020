@@ -32,4 +32,14 @@ This week is not very productive as expected. I have finished work in Japan and 
 - investigated more on the deduplication and chunking in ipfs, used datasets to find out how well is deduplication going to work with them. The result is that, it may work in case we use raw `.ttl` files, but it is not really efficient with compressed data. Compression looks much more efficient than the use of raw `.ttl` with deduplication, it may be not the case only if there are not many changes in the data, and new versions are published frequently. 
 
 # Week 5 (June 29 - July 5)
+
+Was working on integration of ipfs with databus-maven-plugin:
+- reading code of the plugin and getting to know the structure in detail
+- code refactorings for smoother integration of ipfs
+- exploring approaches to testing of maven plugins (unit-tests, integration tests)
+- made a sample unit test and sample integration test
+- made a draft integration of IpfsCliClient with the plugin code (changes in dataid ttl are left to do, better testing is left)
+- added dynamic generation of plugin version which can be used in code
+
+# Week 6 (July 6 - July 12)
 todo

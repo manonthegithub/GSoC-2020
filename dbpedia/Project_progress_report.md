@@ -42,4 +42,16 @@ Was working on integration of ipfs with databus-maven-plugin:
 - added dynamic generation of plugin version which can be used in code
 
 # Week 6 (July 6 - July 12)
+
+- encountered issues with testing the plugin, the solution needs to be discussed with Sebastian. Existing unittest utils do not allow to inject default values for standard maven properties, and to do real testing we need either require docker or ipfs installed on the build machine. How to deal with it is to be decided. 
+- made some slight improvements in the IpfsPluginOps
+- spent time trying to figure out why databus plugin is not working on the provided server. Connection to my webid address was not working on the server. The issue magically disappeared today.
+- some parts of the plugin can be removed or replaced by invocation of the existing plugins, to be discussed with Sebastian
+- cleaned up dependencies in the pom file, possibly more cleaning is needed. removing unneded deps allowed to run tests using maven-testing-harness without workarounds.
+- did more investigation on file deduplication, and got promising results. previous conclusions that deduplication doesnt work for archives looks to be wrong, need to do more experiments to make final conclusion
+- have deduced and calculated the formula for the optimal block size to achieve minimal size on deduplication (not putting all the details here): sqrt (hash_size * changes_every_n_bytes), where hash_size is the the length of the hash of a block in bytes (256 for sha256), changes_every_n_bytes is an average distance in bytes between changes in a file. 
+
+# Week 7 (July 13 - July 19)
 todo
+
+

@@ -52,6 +52,15 @@ Was working on integration of ipfs with databus-maven-plugin:
 - have deduced and calculated the formula for the optimal block size to achieve minimal size on deduplication (not putting all the details here): sqrt (hash_size * changes_every_n_bytes), where hash_size is the the length of the hash of a block in bytes (256 for sha256), changes_every_n_bytes is an average distance in bytes between changes in a file. 
 
 # Week 7 (July 13 - July 19)
+
+This week was mostly coding and diving deeper into maven plugin testing. I am really disappointed by the tools maven provides for tests.
+
+- finally figured out the way of doing proper unit-testing for our plugin. The main problem was that maven plugin testing tools are very limited and do not inject maven properties.
+- had to do lots of refactorings for testing to work
+- wrote util functions and classes to ease the testing and initialisation of the tests
+- finally started to write unittests
+
+# Week 8 (July 20 - July 26)
 todo
 
 

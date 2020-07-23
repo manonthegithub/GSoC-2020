@@ -61,6 +61,17 @@ This week was mostly coding and diving deeper into maven plugin testing. I am re
 - finally started to write unittests
 
 # Week 8 (July 20 - July 26)
-todo
 
+It is taking a while to write the tests. I think I'll manage to finish it by the end of the week, at least some basic ones.
+
+- the use of dummy implementations doesnt allow to simply check how the object was used, so I decided to switch on mocks
+- configured mockito and explored its api
+- rewrote a part of the tests for using mocks instead of dummy implementations
+- as the plugin does a post request to the endpoint on deploy, configured mock web-server for unitests, appears to be very convenient thing for testing
+- started with the integration tests
+- configured test-containers (framework for running docker containers in integration tests) for running ipfs
+
+# Week 9 (July 27 - August 2)
+
+todo
 

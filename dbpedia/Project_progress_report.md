@@ -74,5 +74,12 @@ It is taking a while to write the tests. I think I'll manage to finish it by the
 
 # Week 9 (July 27 - August 2)
 
+- wrote documentation
+- did more investigation on the ways to increase deduplication of compresssed files with ipfs.
+- did some slight code imporvements for configuring the ipfs in the plugin 
+- more tests
+
+# Week 9 (August 3 - August 9)
+
 todo
 

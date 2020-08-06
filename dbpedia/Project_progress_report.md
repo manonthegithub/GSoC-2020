@@ -79,7 +79,15 @@ It is taking a while to write the tests. I think I'll manage to finish it by the
 - did some slight code imporvements for configuring the ipfs in the plugin 
 - more tests
 
-# Week 9 (August 3 - August 9)
+# Week 10 (August 3 - August 9)
+
+This week I have met the team of DbPedia in Leipzig.
+
+- it took some time to fix the integration tests, I had to discover of how to configure the buid and the plugins properly, so that interation tests are preconfigured and run at the right moment
+- trip to Leipzig
+- meeting the team, discussions on what may be done next
+
+# Week 11 (August 10 - August 16)
 
 todo
 

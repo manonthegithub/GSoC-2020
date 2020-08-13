@@ -89,5 +89,17 @@ This week I have met the team of DbPedia in Leipzig.
 
 # Week 11 (August 10 - August 16)
 
-todo
+This week is a start of a final phase of the project.
+
+- created a PR for the final submission
+- created a draft documentation file for a final submission
+- started writing and organising documentation
+- investigated more on how to configure the ipfs client to connect to a remote node (got a hint from the community on how to do it)
+- implemented configuration of the ipfs cli client to connect to a remote node (in the plugin), fixed the tests connected with it
+- removed packageDirectory configuration property (for now it defaults to target)
+
+# Week 12 (August 17 - August 23)
+
+#todo
+
 

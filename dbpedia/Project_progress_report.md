@@ -106,4 +106,7 @@ This week was focus on documentation.
 - restructured the documentation of the project
 - added configuration parameters for a chunker
 
+# Week 13 (August 24 - August 30)
+
+# todo
 

@@ -100,6 +100,10 @@ This week is a start of a final phase of the project.
 
 # Week 12 (August 17 - August 23)
 
-#todo
+This week was focus on documentation.
+
+- documented IPFS uploading feature
+- restructured the documentation of the project
+- added configuration parameters for a chunker
 
 

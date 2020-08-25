@@ -108,5 +108,5 @@ This week was focus on documentation.
 
 # Week 13 (August 24 - August 30)
 
-# todo
+The final submission.
 
